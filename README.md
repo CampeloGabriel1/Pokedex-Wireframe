@@ -17,6 +17,10 @@ O objetivo foi aplicar os conceitos de Arquitetura da Informação e UX Design p
 - [Figma](https://figma.com) – para criação do wireframe
 - GitHub – para versionamento e documentação
 
+## 📸 Preview
+
+![preview](Screenshot/Wireframe.png)
+
 ## 🔗 Link para o projeto no Figma
 
 [Figma – Pokédex Wireframe](https://www.figma.com/proto/O1rYjHcUd6NMpXESxios5N/OnePage---Pokedex-Wireframe?page-id=0%3A1&node-id=2-2&p=f&viewport=-252%2C109%2C0.55&t=Ifn0jvx5aCMFeW8D-1&scaling=min-zoom&content-scaling=fixed)
